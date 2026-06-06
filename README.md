@@ -1,4 +1,4 @@
-# Hi, I'm Wanda 👋
+# Hi, I'm Wanda 
 
 I'm a Computer Science and Applied Mathematics student at the **University of the Witwatersrand (Wits)**, Johannesburg. I'm passionate about using code and data to solve real problems — currently building toward a career in data analytics, software development, or cloud engineering.
 
@@ -6,11 +6,11 @@ I'm a Computer Science and Applied Mathematics student at the **University of th
 
 ## About me
 
-- 🎓 Studying BSc Computer Science @ Wits CSAM
-- 🌍 Based in Johannesburg, South Africa
-- 💡 Interested in data analytics, software engineering, and cloud computing
-- 🌱 Currently learning: data structures, algorithms, and applied mathematics
-- 🚀 Goal: secure a graduate internship in tech or financial services
+-  Studying BSc Computer Science @ Wits CSAM
+-  Based in Johannesburg, South Africa
+-  Interested in data analytics, software engineering, and cloud computing
+-  Currently learning: data structures, algorithms, and applied mathematics
+-  Goal: secure a graduate internship in tech or financial services
 
 ---
 
@@ -31,9 +31,9 @@ I'm a Computer Science and Applied Mathematics student at the **University of th
 
 ## What I'm working on
 
-- 📚 Building a strong foundation in algorithms and data structures through my COMS coursework at Wits
-- 🔢 Applying mathematical thinking to programming through Applied Mathematics modules
-- 📁 Uploading and documenting my university projects here on GitHub
+-  Building a strong foundation in algorithms and data structures through my COMS coursework at Wits
+-  Applying mathematical thinking to programming through Applied Mathematics modules
+-  Uploading and documenting my university projects here on GitHub
 
 ---
 
